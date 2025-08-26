@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\Reports\\PrescriptionReport.pdf",
+      "PackagePath": "staticwebassets\\Reports\\PrescriptionReport.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Medical_Appointment_System_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Medical_Appointment_System_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Medical_Appointment_System_API.props",
+      "PackagePath": "build\\Medical_Appointment_System_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Medical_Appointment_System_API.props",
+      "PackagePath": "buildMultiTargeting\\Medical_Appointment_System_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Medical_Appointment_System_API.props",
+      "PackagePath": "buildTransitive\\Medical_Appointment_System_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

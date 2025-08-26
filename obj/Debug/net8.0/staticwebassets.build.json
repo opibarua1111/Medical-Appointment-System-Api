@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "o4ZvjIR3D/3cumH8jUMf29zbuHxTATtzrzW0sBsPKoE=",
+  "Source": "Medical_Appointment_System_API",
+  "BasePath": "_content/Medical_Appointment_System_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medical_Appointment_System_API\\wwwroot",
+      "Source": "Medical_Appointment_System_API",
+      "ContentRoot": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\",
+      "BasePath": "_content/Medical_Appointment_System_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\Reports\\PrescriptionReport.pdf",
+      "SourceId": "Medical_Appointment_System_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\",
+      "BasePath": "_content/Medical_Appointment_System_API",
+      "RelativePath": "Reports/PrescriptionReport#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "480ndrll1t",
+      "Integrity": "HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Reports\\PrescriptionReport.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Reports/PrescriptionReport.480ndrll1t.pdf",
+      "AssetFile": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\Reports\\PrescriptionReport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 11:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "480ndrll1t"
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/PrescriptionReport.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA="
+        }
+      ]
+    },
+    {
+      "Route": "Reports/PrescriptionReport.pdf",
+      "AssetFile": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\Reports\\PrescriptionReport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 11:49:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA="
+        }
+      ]
+    }
+  ]
+}

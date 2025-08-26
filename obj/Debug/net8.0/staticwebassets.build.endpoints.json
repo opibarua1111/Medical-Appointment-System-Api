@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Reports/PrescriptionReport.480ndrll1t.pdf",
+      "AssetFile": "Reports/PrescriptionReport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 11:49:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "480ndrll1t"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA="
+        },
+        {
+          "Name": "label",
+          "Value": "Reports/PrescriptionReport.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Reports/PrescriptionReport.pdf",
+      "AssetFile": "Reports/PrescriptionReport.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Aug 2025 11:49:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA="
+        }
+      ]
+    }
+  ]
+}
