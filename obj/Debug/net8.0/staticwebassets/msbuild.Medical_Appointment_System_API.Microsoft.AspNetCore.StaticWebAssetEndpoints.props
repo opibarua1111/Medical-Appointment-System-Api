@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/Medical_Appointment_System_API/Reports/PrescriptionReport.dowbjeum3c.pdf">
+    <StaticWebAssetEndpoint Include="_content/Medical_Appointment_System_API/Reports/PrescriptionReport.3tdwfg0by1.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\PrescriptionReport.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dowbjeum3c"},{"Name":"integrity","Value":"sha256-LcU0sAWsKlAqAbxNeb\u002BB8uw\u002B4GJl5dy3vCEKGBa8DaU="},{"Name":"label","Value":"_content/Medical_Appointment_System_API/Reports/PrescriptionReport.pdf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1344"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LcU0sAWsKlAqAbxNeb\u002BB8uw\u002B4GJl5dy3vCEKGBa8DaU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Aug 2025 15:25:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3tdwfg0by1"},{"Name":"integrity","Value":"sha256-53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U="},{"Name":"label","Value":"_content/Medical_Appointment_System_API/Reports/PrescriptionReport.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u002253z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Aug 2025 15:42:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Medical_Appointment_System_API/Reports/PrescriptionReport.pdf">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\PrescriptionReport.pdf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LcU0sAWsKlAqAbxNeb\u002BB8uw\u002B4GJl5dy3vCEKGBa8DaU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1344"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022LcU0sAWsKlAqAbxNeb\u002BB8uw\u002B4GJl5dy3vCEKGBa8DaU=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Aug 2025 15:25:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1462"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u002253z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Aug 2025 15:42:27 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

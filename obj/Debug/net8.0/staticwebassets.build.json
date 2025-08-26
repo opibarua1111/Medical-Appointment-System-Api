@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kKnS311BxkqG1EPaLai1tNz1tYI1OrRsFU3FyRF2uPU=",
+  "Hash": "JsvEbYRPVNEcHk0jAxyqohybZ76enqruiarCnLF0TzA=",
   "Source": "Medical_Appointment_System_API",
   "BasePath": "_content/Medical_Appointment_System_API",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dowbjeum3c",
-      "Integrity": "LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU=",
+      "Fingerprint": "3tdwfg0by1",
+      "Integrity": "53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Reports\\PrescriptionReport.pdf"
@@ -40,7 +40,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "Reports/PrescriptionReport.dowbjeum3c.pdf",
+      "Route": "Reports/PrescriptionReport.3tdwfg0by1.pdf",
       "AssetFile": "D:\\MedicalAppointmentSystem\\Medical_Appointment_System_API\\Medical_Appointment_System_API\\wwwroot\\Reports\\PrescriptionReport.pdf",
       "Selectors": [],
       "ResponseHeaders": [
@@ -50,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1344"
+          "Value": "1462"
         },
         {
           "Name": "Content-Type",
@@ -58,11 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU=\""
+          "Value": "\"53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Aug 2025 15:25:39 GMT"
+          "Value": "Tue, 26 Aug 2025 15:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72,7 +72,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dowbjeum3c"
+          "Value": "3tdwfg0by1"
         },
         {
           "Name": "label",
@@ -80,7 +80,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU="
+          "Value": "sha256-53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U="
         }
       ]
     },
@@ -95,7 +95,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1344"
+          "Value": "1462"
         },
         {
           "Name": "Content-Type",
@@ -103,11 +103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU=\""
+          "Value": "\"53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 26 Aug 2025 15:25:39 GMT"
+          "Value": "Tue, 26 Aug 2025 15:42:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -117,7 +117,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU="
+          "Value": "sha256-53z0Xi4jwgN2Vhr6T0RL19e83oAYKbqHjQT4byc8d8U="
         }
       ]
     }
