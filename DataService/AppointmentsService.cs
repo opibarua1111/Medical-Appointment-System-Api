@@ -138,6 +138,7 @@ namespace Medical_Appointment_System_API.DataService
                 await _context.SaveChangesAsync();
 
                 response.Message = "Appointment created successfully";
+                response.Data = new { appointmentId = appointment.Id };
                 response.ReponseCode = 200;
                 return response;
             }

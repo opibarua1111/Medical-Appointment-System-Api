@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>480ndrll1t</Fingerprint>
-      <Integrity>HJamh0x8ikjOo+Fq0xlCca7mRNGWl0xM7MGS5jHMzyA=</Integrity>
+      <Fingerprint>dowbjeum3c</Fingerprint>
+      <Integrity>LcU0sAWsKlAqAbxNeb+B8uw+4GJl5dy3vCEKGBa8DaU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Reports\PrescriptionReport.pdf'))</OriginalItemSpec>

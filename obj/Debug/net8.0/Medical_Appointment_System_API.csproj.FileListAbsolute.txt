@@ -175,3 +175,4 @@ D:\MedicalAppointmentSystem\Medical_Appointment_System_API\Medical_Appointment_S
 D:\MedicalAppointmentSystem\Medical_Appointment_System_API\Medical_Appointment_System_API\bin\Debug\net8.0\itextsharp.dll
 D:\MedicalAppointmentSystem\Medical_Appointment_System_API\Medical_Appointment_System_API\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\MedicalAppointmentSystem\Medical_Appointment_System_API\Medical_Appointment_System_API\bin\Debug\net8.0\Medical_Appointment_System_API.staticwebassets.runtime.json
+D:\MedicalAppointmentSystem\Medical_Appointment_System_API\Medical_Appointment_System_API\obj\Debug\net8.0\Medical_Appointment_System_API.sourcelink.json
