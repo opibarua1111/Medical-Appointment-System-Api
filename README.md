@@ -1,4 +1,4 @@
-# Medical Appointment System App
+# Medical Appointment System Api
 
 This project is a Medical Appointment Management System built with a frontend (Angular), backend (ASP.NET Core Web API), and a SQL Server database. It allows patients to book appointments, doctors to manage schedules, and admins to oversee the system.
 
