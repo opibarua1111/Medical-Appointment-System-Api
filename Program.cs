@@ -29,7 +29,7 @@ builder.Services.AddCors(options =>
 });
 
 builder.Services.AddTransient<IAppointmentsService, AppointmentsService>();
-builder.Services.AddScoped<IEmailSender, EmailSender>();
+builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
 
